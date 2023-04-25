@@ -77,15 +77,11 @@ Hi, I'm Pedro Guimaraes, a Senior Blockchain and Cryptocurrency Developer, I hav
 </div>
 
 
-**Connect with me:**
 
- -Email : superinvestor20@gmail.com
- 
- -Discord : frozencrystal#8799
 
 
 <!--
-**blockchain-nft/blockchain-nft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PedroGuiDev/PedroGuiDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
