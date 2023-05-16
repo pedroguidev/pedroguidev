@@ -52,7 +52,6 @@ Hi, I'm Pedro Guimaraes, a Senior Blockchain and Cryptocurrency Developer, I hav
 
 
 <div>
-  <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=blockchainGuru1018.blockchainGuru1018" />
   <img align="right" src="https://img.shields.io/github/followers/blockchainGuru1018?label=Follow&style=social" />
   <img height="150px" />
 </div>
