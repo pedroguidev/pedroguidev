@@ -4,12 +4,7 @@
 <br/>
 
 Hi, I'm Pedro Guimaraes, a Senior Blockchain and Cryptocurrency Developer, I have rich experience with Blockchain, Ethereum, Yield Farming, Smart Contract, DEFI and NFT marketplace. I developed tons of websites successfully using React.js, Redux, web3.js, Vue.js, Express, Node.js, Laravel and etc.
-
-
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/><a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwrk&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a> <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/><a href="https://join.skype.com/invite/kzFo7KhcEV00"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
-  
-  
-
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
   <tr>
@@ -45,34 +40,19 @@ Hi, I'm Pedro Guimaraes, a Senior Blockchain and Cryptocurrency Developer, I hav
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/docker-13-1175230.png" width="100"></td>
   </tr>
 </table>
-
 <div>
   <img align="right" src="https://img.shields.io/github/followers/blockchainGuru1018?label=Follow&style=social" />
   <img height="150px" />
 </div>
 
-
-## 𝐖𝐡𝐚𝐭 𝐖𝐞 𝐂𝐚𝐧 𝐃𝐨
+## 𝐖𝐡𝐚𝐭 I 𝐂𝐚𝐧 𝐃𝐨
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
- 
 ### Online Betting Website and Mobile app
-<br />
-  
 ### Crypto Currency
-<br />
-  
 ### AR & VR Web and Mobile application
-<br />
-  
 ### Video Conference Web and Mobile application
-<br />
-  
 </div>
-
-
-
-
 
 <!--
 **PedroGuiDev/PedroGuiDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
