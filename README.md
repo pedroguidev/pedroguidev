@@ -46,11 +46,6 @@ Hi, I'm Pedro Guimaraes, a Senior Blockchain and Cryptocurrency Developer, I hav
   </tr>
 </table>
 
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=blockchainGuru1018&show_icons=true&theme=merko&count_private=true" />
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blockchainGuru1018&layout=compact&theme=merko&count_private=true" />
-
-
-
 <div>
   <img align="right" src="https://img.shields.io/github/followers/blockchainGuru1018?label=Follow&style=social" />
   <img height="150px" />
