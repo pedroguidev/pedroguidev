@@ -3,7 +3,20 @@
 
 <br/>
 
-Hi, I'm Pedro Guimaraes, a Senior Blockchain and Cryptocurrency Developer, I have rich experience with Blockchain, Ethereum, Yield Farming, Smart Contract, DEFI and NFT marketplace. I developed tons of websites successfully using React.js, Redux, web3.js, Vue.js, Express, Node.js, Laravel and etc.
+Hello,
+My name is Pedro and I'm a senior Blockchain developer who is passionate in creating fast, consistent, error-free solutions that impress and aid clients in their online needs.
+I push myself to create high quality work while keeping an eye for the most minute details to ensure a product that won't fail.
+I have 3 years of experience with :
+
+- Cryptocurrency<br/>
+- smart contract<br/>
+- Blockchain Dapp development<br/>
+- Dapp, DeFi, DEX<br/>
+- NFT marketplace<br/>
+- Public & Private Blockchain<br/>
+
+Like everyone who loves programming, I find my pleasure in creating beneficial & convenient systems giving clients 100% satisfaction
+My only passion is programming!
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/><a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwrk&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a> <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/><a href="https://join.skype.com/invite/kzFo7KhcEV00"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
