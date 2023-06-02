@@ -48,10 +48,11 @@ Hi, I'm Pedro Guimaraes, a Senior Blockchain and Cryptocurrency Developer, I hav
 ## 𝐖𝐡𝐚𝐭 I 𝐂𝐚𝐧 𝐃𝐨
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
-### Online Betting Website and Mobile app
-### Crypto Currency
-### AR & VR Web and Mobile application
-### Video Conference Web and Mobile application
+  <br/>
+### Online Betting Website and Mobile app<br/>
+### Crypto Currency<br/>
+### AR & VR Web and Mobile application<br/>
+### Video Conference Web and Mobile application<br/>
 </div>
 
 <!--
